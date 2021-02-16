@@ -1,0 +1,22 @@
+[
+    {
+        "item": "bananas",
+        "qty": 10
+    },
+    {
+        "item": "canned  beans",
+        "qty": 20
+    },
+    {
+        "item": "milk",
+        "qty": 2
+    },
+    {
+        "item": "coffee",
+        "qty": 2
+    },
+    {
+        "item": "chocolate",
+        "qty": 5
+    }
+]

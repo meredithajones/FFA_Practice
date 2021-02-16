@@ -1,0 +1,11 @@
+.navbar, .nav-link, .navbar-brand {
+    background: #16a55c;
+    font-size: 24px;
+    color: #FFF;
+}
+
+.nav-link:hover, .navbar-brand:hover
+{
+    color: white;
+    text-decoration: underline !important;
+}
